@@ -1,0 +1,9 @@
+{
+    "name": "rock/8bit.local",
+    "type": "project",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {"src\\": "src/"}
+    }
+}
